@@ -1,0 +1,23 @@
+{
+	"KPackageStructure": "Plasma/Applet",
+	"X-Plasma-API": "declarativeappletscript",
+	"X-Plasma-API-Minimum-Version": "6.0",
+	"X-Plasma-MainScript": "ui/main.qml",
+	"KPlugin": {
+		"Name": "Activate Windows",
+		"Description": "Activate Windows Plasmoid",
+		"Id": "com.neuralwired.activate-windows-plasmoid",
+		"Version": "1.0",
+		"Website": "https://github.com/neuralwired/activate-windows-plasmoid",
+		"Category": "Utilities",
+		"License": "GPL-3.0+",
+		"Authors": [
+			{
+				"Name": "neuralwired",
+				"Email": "neuralwired@gmail.com"
+			}
+		],
+		"Icon": "globe",
+		"EnabledByDefault": true
+	}
+}
